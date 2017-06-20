@@ -1,0 +1,14 @@
+## Interface: 70100
+## Title: |cffc41f3bRubim TTD|r
+## Author: Rubim
+## Version: 1.1
+## Notes: Show TTD for current Target
+## SavedVariables: RubimTTDDB
+## OptionalDeps: Ace3
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+rubim-ttd.lua
+rubim-ttdc.lua
